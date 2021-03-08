@@ -1,0 +1,12 @@
+#herotext {
+  display: -ms-grid;
+  display: grid;
+  background-color: #851616;
+  color: white;
+}
+
+nav {
+  background-color: #851616;
+  color: white;
+}
+/*# sourceMappingURL=styles.css.map */
